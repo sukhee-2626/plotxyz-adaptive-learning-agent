@@ -8,3 +8,5 @@
 [plotxyz-compliance-checker-agent] pushed
 [plotxyz-computer-health-agent] push failed exit=1
 [plotxyz-config-validator-agent] pushed
+[plotxyz-contract-review-assistant] push failed exit=1
+[plotxyz-cost-tracker-agent] pushed
