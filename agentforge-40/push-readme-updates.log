@@ -2,3 +2,4 @@
 [plotxyz-anomaly-investigator-agent] push failed exit=1
 [plotxyz-api-detective-agent] push failed exit=1
 [plotxyz-autonomous-qa-agent] push failed exit=1
+[plotxyz-citation-audit-agent] push failed exit=1
