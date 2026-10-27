@@ -19,3 +19,4 @@
 [plotxyz-dependency-update-agent] pushed
 [plotxyz-deployment-readiness-agent] pushed
 [plotxyz-device-intelligence-agent] push failed exit=1
+[plotxyz-digital-clutter-agent] push failed exit=1
