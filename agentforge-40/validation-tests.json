@@ -1,0 +1,242 @@
+﻿[
+    {
+        "slug":  "plotxyz-adaptive-learning-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.64s"
+    },
+    {
+        "slug":  "plotxyz-anomaly-investigator-agent",
+        "exit":  0,
+        "passed":  7,
+        "summary":  "7 passed, 1 warning in 1.24s"
+    },
+    {
+        "slug":  "plotxyz-api-detective-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.21s"
+    },
+    {
+        "slug":  "plotxyz-autonomous-qa-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.24s"
+    },
+    {
+        "slug":  "plotxyz-citation-audit-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.23s"
+    },
+    {
+        "slug":  "plotxyz-code-review-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.25s"
+    },
+    {
+        "slug":  "plotxyz-communication-coach-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.24s"
+    },
+    {
+        "slug":  "plotxyz-computer-health-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.20s"
+    },
+    {
+        "slug":  "plotxyz-contract-review-assistant",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.22s"
+    },
+    {
+        "slug":  "plotxyz-csv-insights-agent",
+        "exit":  0,
+        "passed":  7,
+        "summary":  "7 passed, 1 warning in 1.28s"
+    },
+    {
+        "slug":  "plotxyz-database-intelligence-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.28s"
+    },
+    {
+        "slug":  "plotxyz-data-documentation-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.24s"
+    },
+    {
+        "slug":  "plotxyz-data-lineage-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.17s"
+    },
+    {
+        "slug":  "plotxyz-data-quality-guardian",
+        "exit":  0,
+        "passed":  7,
+        "summary":  "7 passed, 1 warning in 1.32s"
+    },
+    {
+        "slug":  "plotxyz-dependency-risk-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.22s"
+    },
+    {
+        "slug":  "plotxyz-device-intelligence-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.20s"
+    },
+    {
+        "slug":  "plotxyz-digital-clutter-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.44s"
+    },
+    {
+        "slug":  "plotxyz-documentation-generator-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.34s"
+    },
+    {
+        "slug":  "plotxyz-document-to-action-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.26s"
+    },
+    {
+        "slug":  "plotxyz-etl-pipeline-agent",
+        "exit":  0,
+        "passed":  7,
+        "summary":  "7 passed, 1 warning in 1.43s"
+    },
+    {
+        "slug":  "plotxyz-evidence-verification-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.84s"
+    },
+    {
+        "slug":  "plotxyz-knowledge-gap-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.29s"
+    },
+    {
+        "slug":  "plotxyz-knowledge-graph-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.40s"
+    },
+    {
+        "slug":  "plotxyz-local-knowledge-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.46s"
+    },
+    {
+        "slug":  "plotxyz-local-model-benchmark-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.25s"
+    },
+    {
+        "slug":  "plotxyz-meeting-intelligence-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.42s"
+    },
+    {
+        "slug":  "plotxyz-model-router-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.36s"
+    },
+    {
+        "slug":  "plotxyz-multi-agent-project-manager",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.17s"
+    },
+    {
+        "slug":  "plotxyz-offline-personal-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.22s"
+    },
+    {
+        "slug":  "plotxyz-privacy-audit-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.34s"
+    },
+    {
+        "slug":  "plotxyz-refactoring-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.26s"
+    },
+    {
+        "slug":  "plotxyz-research-synthesis-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.26s"
+    },
+    {
+        "slug":  "plotxyz-resource-optimization-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.22s"
+    },
+    {
+        "slug":  "plotxyz-schema-drift-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.32s"
+    },
+    {
+        "slug":  "plotxyz-self-healing-code-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.21s"
+    },
+    {
+        "slug":  "plotxyz-sql-performance-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.21s"
+    },
+    {
+        "slug":  "plotxyz-startup-cofounder-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.17s"
+    },
+    {
+        "slug":  "plotxyz-ui-critic-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.43s"
+    },
+    {
+        "slug":  "plotxyz-what-if-simulator-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.40s"
+    },
+    {
+        "slug":  "plotxyz-workflow-builder-agent",
+        "exit":  0,
+        "passed":  6,
+        "summary":  "6 passed, 1 warning in 1.38s"
+    }
+]

@@ -1,0 +1,42 @@
+﻿[
+    {
+        "slug":  "plotxyz-cost-tracker-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-token-analyzer-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-prompt-optimizer-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-dependency-update-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-config-validator-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-secret-scanner-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-performance-profiler-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-compliance-checker-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-deployment-readiness-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-incident-responder-agent",
+        "verified":  true
+    }
+]

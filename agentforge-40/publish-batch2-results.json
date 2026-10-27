@@ -1,0 +1,82 @@
+﻿[
+    {
+        "slug":  "plotxyz-data-lineage-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-sql-performance-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-data-documentation-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-anomaly-investigator-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-knowledge-graph-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-document-to-action-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-evidence-verification-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-research-synthesis-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-meeting-intelligence-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-contract-review-assistant",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-knowledge-gap-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-citation-audit-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-adaptive-learning-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-communication-coach-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-startup-cofounder-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-workflow-builder-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-multi-agent-project-manager",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-digital-clutter-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-ui-critic-agent",
+        "verified":  true
+    },
+    {
+        "slug":  "plotxyz-what-if-simulator-agent",
+        "verified":  true
+    }
+]

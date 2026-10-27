@@ -1,0 +1,322 @@
+﻿[
+    {
+        "slug":  "plotxyz-device-intelligence-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-device-intelligence-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-offline-personal-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-offline-personal-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-resource-optimization-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-resource-optimization-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-local-model-benchmark-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-local-model-benchmark-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-privacy-audit-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-privacy-audit-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-model-router-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-model-router-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-local-knowledge-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-local-knowledge-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-computer-health-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-computer-health-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-self-healing-code-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-self-healing-code-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-api-detective-agent",
+        "created":  true,
+        "pushed":  true,
+        "verified":  true,
+        "url":  "https://github.com/sukhee-2626/plotxyz-api-detective-agent",
+        "error":  ""
+    },
+    {
+        "slug":  "plotxyz-autonomous-qa-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-code-review-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-dependency-risk-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-documentation-generator-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-refactoring-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-database-intelligence-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-data-quality-guardian",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-etl-pipeline-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-csv-insights-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-schema-drift-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-data-lineage-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-sql-performance-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-data-documentation-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-anomaly-investigator-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-knowledge-graph-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-document-to-action-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-evidence-verification-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-research-synthesis-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-meeting-intelligence-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-contract-review-assistant",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-knowledge-gap-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-citation-audit-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-adaptive-learning-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-communication-coach-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-startup-cofounder-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-workflow-builder-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-multi-agent-project-manager",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-digital-clutter-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-ui-critic-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    },
+    {
+        "slug":  "plotxyz-what-if-simulator-agent",
+        "created":  false,
+        "pushed":  false,
+        "verified":  false,
+        "url":  "",
+        "error":  "create: The remote server returned an error: (403) Forbidden."
+    }
+]
