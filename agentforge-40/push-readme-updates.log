@@ -10,3 +10,4 @@
 [plotxyz-config-validator-agent] pushed
 [plotxyz-contract-review-assistant] push failed exit=1
 [plotxyz-cost-tracker-agent] pushed
+[plotxyz-csv-insights-agent] push failed exit=1
