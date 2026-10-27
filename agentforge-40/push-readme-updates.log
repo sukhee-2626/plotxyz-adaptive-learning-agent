@@ -6,3 +6,5 @@
 [plotxyz-code-review-agent] push failed exit=1
 [plotxyz-communication-coach-agent] push failed exit=1
 [plotxyz-compliance-checker-agent] pushed
+[plotxyz-computer-health-agent] push failed exit=1
+[plotxyz-config-validator-agent] pushed
