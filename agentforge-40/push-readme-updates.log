@@ -15,3 +15,6 @@
 [plotxyz-data-documentation-agent] push failed exit=1
 [plotxyz-data-lineage-agent] push failed exit=1
 [plotxyz-data-quality-guardian] push failed exit=1
+[plotxyz-dependency-risk-agent] push failed exit=1
+[plotxyz-dependency-update-agent] pushed
+[plotxyz-deployment-readiness-agent] pushed
