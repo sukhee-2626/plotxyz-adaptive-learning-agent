@@ -21,3 +21,4 @@
 [plotxyz-device-intelligence-agent] push failed exit=1
 [plotxyz-digital-clutter-agent] push failed exit=1
 [plotxyz-documentation-generator-agent] push failed exit=1
+[plotxyz-document-to-action-agent] push failed exit=1
