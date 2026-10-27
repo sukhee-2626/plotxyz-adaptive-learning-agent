@@ -14,3 +14,4 @@
 [plotxyz-database-intelligence-agent] push failed exit=1
 [plotxyz-data-documentation-agent] push failed exit=1
 [plotxyz-data-lineage-agent] push failed exit=1
+[plotxyz-data-quality-guardian] push failed exit=1
