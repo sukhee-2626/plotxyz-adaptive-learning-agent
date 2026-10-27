@@ -23,3 +23,5 @@
 [plotxyz-documentation-generator-agent] push failed exit=1
 [plotxyz-document-to-action-agent] push failed exit=1
 [plotxyz-etl-pipeline-agent] push failed exit=1
+[plotxyz-evidence-verification-agent] push failed exit=1
+[plotxyz-incident-responder-agent] pushed
