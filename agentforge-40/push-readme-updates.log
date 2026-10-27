@@ -30,3 +30,4 @@
 [plotxyz-local-knowledge-agent] push failed exit=1
 [plotxyz-local-model-benchmark-agent] push failed exit=1
 [plotxyz-meeting-intelligence-agent] push failed exit=1
+[plotxyz-model-router-agent] push failed exit=1
