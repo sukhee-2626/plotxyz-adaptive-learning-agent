@@ -25,3 +25,4 @@
 [plotxyz-etl-pipeline-agent] push failed exit=1
 [plotxyz-evidence-verification-agent] push failed exit=1
 [plotxyz-incident-responder-agent] pushed
+[plotxyz-knowledge-gap-agent] push failed exit=1
