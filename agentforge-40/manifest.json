@@ -7,10 +7,9 @@
     "accent": "#22d3ee",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-device-intelligence-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-device-intelligence-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 2,
@@ -20,10 +19,9 @@
     "accent": "#38bdf8",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-offline-personal-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-offline-personal-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 3,
@@ -33,10 +31,9 @@
     "accent": "#2dd4bf",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-resource-optimization-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-resource-optimization-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 4,
@@ -46,10 +43,9 @@
     "accent": "#a78bfa",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-local-model-benchmark-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-local-model-benchmark-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 5,
@@ -59,10 +55,9 @@
     "accent": "#f472b6",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-privacy-audit-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-privacy-audit-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 6,
@@ -72,10 +67,9 @@
     "accent": "#818cf8",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-model-router-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-model-router-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 7,
@@ -85,10 +79,9 @@
     "accent": "#34d399",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-local-knowledge-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-local-knowledge-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 8,
@@ -98,10 +91,9 @@
     "accent": "#fb923c",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-computer-health-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-computer-health-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 9,
@@ -111,10 +103,9 @@
     "accent": "#f87171",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-self-healing-code-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-self-healing-code-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 10,
@@ -124,10 +115,9 @@
     "accent": "#e879f9",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-api-detective-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-api-detective-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 11,
@@ -137,10 +127,9 @@
     "accent": "#4ade80",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-autonomous-qa-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-autonomous-qa-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 12,
@@ -150,10 +139,9 @@
     "accent": "#60a5fa",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-code-review-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-code-review-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 13,
@@ -163,10 +151,9 @@
     "accent": "#fbbf24",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-dependency-risk-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-dependency-risk-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 14,
@@ -176,10 +163,9 @@
     "accent": "#94a3b8",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-documentation-generator-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-documentation-generator-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 15,
@@ -189,10 +175,9 @@
     "accent": "#c084fc",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-refactoring-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-refactoring-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 16,
@@ -202,10 +187,9 @@
     "accent": "#2dd4bf",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-database-intelligence-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-database-intelligence-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 17,
@@ -215,10 +199,9 @@
     "accent": "#4ade80",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-data-quality-guardian",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-data-quality-guardian",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 18,
@@ -228,10 +211,9 @@
     "accent": "#38bdf8",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-etl-pipeline-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-etl-pipeline-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 19,
@@ -241,10 +223,9 @@
     "accent": "#34d399",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-csv-insights-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-csv-insights-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 20,
@@ -254,10 +235,9 @@
     "accent": "#f472b6",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-schema-drift-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-schema-drift-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 21,
@@ -267,10 +247,9 @@
     "accent": "#f59e0b",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-data-lineage-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-data-lineage-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 22,
@@ -280,10 +259,9 @@
     "accent": "#60a5fa",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-sql-performance-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-sql-performance-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 23,
@@ -293,10 +271,9 @@
     "accent": "#a78bfa",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-data-documentation-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-data-documentation-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 24,
@@ -306,10 +283,9 @@
     "accent": "#fb7185",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-anomaly-investigator-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-anomaly-investigator-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 25,
@@ -319,10 +295,9 @@
     "accent": "#fbbf24",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-knowledge-graph-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-knowledge-graph-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 26,
@@ -332,10 +307,9 @@
     "accent": "#4ade80",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-document-to-action-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-document-to-action-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 27,
@@ -345,10 +319,9 @@
     "accent": "#22d3ee",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-evidence-verification-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-evidence-verification-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 28,
@@ -358,10 +331,9 @@
     "accent": "#e879f9",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-research-synthesis-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-research-synthesis-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 29,
@@ -371,10 +343,9 @@
     "accent": "#38bdf8",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-meeting-intelligence-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-meeting-intelligence-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 30,
@@ -384,10 +355,9 @@
     "accent": "#f59e0b",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-contract-review-assistant",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-contract-review-assistant",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 31,
@@ -397,10 +367,9 @@
     "accent": "#2dd4bf",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-knowledge-gap-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-knowledge-gap-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 32,
@@ -410,10 +379,9 @@
     "accent": "#c084fc",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-citation-audit-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-citation-audit-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 33,
@@ -423,10 +391,9 @@
     "accent": "#facc15",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-adaptive-learning-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-adaptive-learning-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 34,
@@ -436,10 +403,9 @@
     "accent": "#fb7185",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-communication-coach-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-communication-coach-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 35,
@@ -449,10 +415,9 @@
     "accent": "#f59e0b",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-startup-cofounder-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-startup-cofounder-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 36,
@@ -462,10 +427,9 @@
     "accent": "#38bdf8",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-workflow-builder-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-workflow-builder-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 37,
@@ -475,10 +439,9 @@
     "accent": "#34d399",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-multi-agent-project-manager",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-multi-agent-project-manager",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 38,
@@ -488,10 +451,9 @@
     "accent": "#fb923c",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-digital-clutter-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-digital-clutter-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 39,
@@ -501,10 +463,9 @@
     "accent": "#e879f9",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-ui-critic-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-ui-critic-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 40,
@@ -514,10 +475,9 @@
     "accent": "#a78bfa",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-what-if-simulator-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-what-if-simulator-agent",
-    "build": "passed"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 41,
@@ -527,10 +487,9 @@
     "accent": "#f472b6",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-cost-tracker-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-cost-tracker-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 42,
@@ -540,10 +499,9 @@
     "accent": "#38bdf8",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-token-analyzer-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-token-analyzer-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 43,
@@ -553,10 +511,9 @@
     "accent": "#4ade80",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-prompt-optimizer-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-prompt-optimizer-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 44,
@@ -566,10 +523,9 @@
     "accent": "#fbbf24",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-dependency-update-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-dependency-update-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 45,
@@ -579,10 +535,9 @@
     "accent": "#22d3ee",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-config-validator-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-config-validator-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 46,
@@ -592,10 +547,9 @@
     "accent": "#fb7185",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-secret-scanner-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-secret-scanner-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 47,
@@ -605,10 +559,9 @@
     "accent": "#a78bfa",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-performance-profiler-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-performance-profiler-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 48,
@@ -618,10 +571,9 @@
     "accent": "#2dd4bf",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-compliance-checker-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-compliance-checker-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 49,
@@ -631,10 +583,9 @@
     "accent": "#34d399",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-deployment-readiness-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-deployment-readiness-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   },
   {
     "index": 50,
@@ -644,9 +595,8 @@
     "accent": "#fb923c",
     "path": "C:\\Users\\HP\\todo-app\\agentforge-40\\projects\\plotxyz-incident-responder-agent",
     "status": "built",
-    "tests": "passed (6)",
-    "build": "passed",
-    "published": true,
-    "url": "https://github.com/sukhee-2626/plotxyz-incident-responder-agent"
+    "tests": "not-run",
+    "published": false,
+    "url": ""
   }
 ]
